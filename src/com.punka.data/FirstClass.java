@@ -13,5 +13,12 @@ public class FirstClass {
 
     public void setName(String name) {
         this.name = name;
+
+
+    }
+    public String surname;
+
+    public String getSurname() {
+        return surname;
     }
 }
